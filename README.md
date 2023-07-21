@@ -1,5 +1,5 @@
 # Chukwudi Peter OFOMA
-<b>Student | Software Developer [ Intern ]</b>
+<b>Student | Fullstack Developer [ Intern ]</b>
 
 I am a Computer Science student of Pan-Atlantic University, Lagos, Nigeria. I am currently learning to build softwares and working on a number of projects.
 
