@@ -9,6 +9,6 @@
   
 👨🏾‍💻 21 year old developer. 
 📚 Studying Computer Science here in Nigeria. 
-🚧 **Current Project:** [Personal Blog](https://soon-chudi.vercel.app/)
+🚧 **Current Project:** [Personal Blog](https://soon-chudi.vercel.app/) 
 
 ⭐️ From [ochudi](https://github.com/ochudi)
