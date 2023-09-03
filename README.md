@@ -1,37 +1,14 @@
-# Chukwudi Peter OFOMA
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ochudi&show_icons=true">
 
-## Fullstack Developer | Computer Science Enthusiast | Open Source Contributor
+### Hi there I'm Chudi :lemon:
 
-Hello there! 👋
+[![Web](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=&style=flat-square&logoColor=white)](https://portfolio-chudi.vercel.app)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/chudi_ofoma/)
+[![Gmail](https://img.shields.io/static/v1?label=Mail&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:chukwudi.ofoma@pau.edu.ng)
+  
+  
+👨‍💻 21 year old developer  
+👨‍🎓 Studying Computer Science here in Nigeria  
+🚧 **Current Project:** [Personal Blog](https://soon-chudi.vercel.app/)
 
-I'm Chukwudi, a passionate and versatile Computer Science student at Pan-Atlantic University, Lagos, Nigeria. My curiosity drives me to explore various technologies, and I enjoy creating efficient and innovative solutions.
-
-### Skills
-
-- Languages: Python, JavaScript, Swift, C++, C, TypeScript, Java
-- Frameworks: Django, React, Next.js, Nest.js, Flutter
-- Libraries: Node.js, Express.js, Tailwind CSS
-- Database: MySQL, PostgreSQL, MongoDB
-- Mobile Development: Flutter, React-Native
-- Data Structures & Algorithms
-- Git Version Control
-
-### Location
-
-Lagos, Nigeria 🇳🇬
-
-### Let's Collaborate
-
-I'm enthusiastic about collaborating on projects that challenge and excite me. If you have a fascinating idea or a team project in mind, feel free to reach out!
-
-### Contact Me
-
-You can connect with me via [email](mailto:chukwudi.ofoma@pau.edu.ng). I'm always eager to hear about exciting opportunities and discussions.
-
-### Support Me
-
-If you appreciate my work and would like to support me, consider buying me a coffee. Your encouragement fuels my passion for continuous learning and development.
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/chukwudiofb)
-
-Thank you for visiting my profile! Let's create remarkable solutions together! 🚀
+⭐️ From [ochudi](https://github.com/ochudi)
