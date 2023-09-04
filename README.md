@@ -11,4 +11,4 @@
 📚 Studying Computer Science here in Nigeria.<br>
 🚧 **Current Project:** [Personal Blog](https://soon-chudi.vercel.app/)
 
-⭐️ From [ochudi](https://github.com/ochudi)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ochudi&label=Profile%20views&color=0e75b6&style=flat" alt="chudi" /></p>
