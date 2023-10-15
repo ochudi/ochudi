@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/static/v1?label=Mail&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:chukwudi.ofoma@pau.edu.ng)
   
   
-👨🏾‍💻 21 year old developer.<br>
+👨🏾‍💻 Full stack developer.<br>
 📚 Studying Computer Science here in Nigeria.<br>
 🚧 **Current Project:** [Personal Blog](https://soon-chudi.vercel.app/)
 
